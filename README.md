@@ -24,3 +24,15 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniruddh-joshi/LeetCode/tree/master/0005-longest-palindromic-substring) |
+# Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+# Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
