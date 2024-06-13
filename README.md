@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aniruddh-joshi/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniruddh-joshi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 # Two Pointers
 |  |
@@ -70,3 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0015-3sum) |
+# Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aniruddh-joshi/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
