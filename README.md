@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniruddh-joshi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniruddh-joshi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/aniruddh-joshi/LeetCode/tree/master/0290-word-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniruddh-joshi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/aniruddh-joshi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/aniruddh-joshi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/aniruddh-joshi/LeetCode/tree/master/0290-word-pattern) |
 # Dynamic Programming
 |  |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0523-continuous-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aniruddh-joshi/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 # Recursion
 |  |
 | ------- |
