@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniruddh-joshi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0279-perfect-squares](https://github.com/aniruddh-joshi/LeetCode/tree/master/0279-perfect-squares) |
 # Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/aniruddh-joshi/LeetCode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/aniruddh-joshi/LeetCode/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/aniruddh-joshi/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Simulation
@@ -113,3 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aniruddh-joshi/LeetCode/tree/master/0014-longest-common-prefix) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/aniruddh-joshi/LeetCode/tree/master/0279-perfect-squares) |
