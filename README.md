@@ -165,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/aniruddh-joshi/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
