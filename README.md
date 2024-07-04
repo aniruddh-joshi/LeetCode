@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -164,9 +165,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aniruddh-joshi/LeetCode/tree/master/0007-reverse-integer) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
