@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0948-sort-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aniruddh-joshi/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0011-container-with-most-water) |
+| [0624-maximum-distance-in-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 ## Recursion
 |  |
 | ------- |
