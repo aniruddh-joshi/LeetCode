@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/aniruddh-joshi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aniruddh-joshi/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/aniruddh-joshi/LeetCode/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aniruddh-joshi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/aniruddh-joshi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aniruddh-joshi/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/aniruddh-joshi/LeetCode/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aniruddh-joshi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
