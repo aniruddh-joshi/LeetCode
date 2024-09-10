@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aniruddh-joshi/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aniruddh-joshi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/aniruddh-joshi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/aniruddh-joshi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aniruddh-joshi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/aniruddh-joshi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
