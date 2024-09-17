@@ -301,4 +301,20 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0342-power-of-four](https://github.com/aniruddh-joshi/LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/aniruddh-joshi/LeetCode/tree/master/0476-number-complement) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
