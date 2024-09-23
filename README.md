@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aniruddh-joshi/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
