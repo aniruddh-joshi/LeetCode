@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aniruddh-joshi/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/aniruddh-joshi/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/aniruddh-joshi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aniruddh-joshi/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aniruddh-joshi/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/aniruddh-joshi/LeetCode/tree/master/0342-power-of-four) |
@@ -325,4 +327,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
