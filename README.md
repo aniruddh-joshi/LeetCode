@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aniruddh-joshi/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/aniruddh-joshi/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aniruddh-joshi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
