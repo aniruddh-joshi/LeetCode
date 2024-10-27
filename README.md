@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/0162-find-peak-element) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniruddh-joshi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Linked List
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
