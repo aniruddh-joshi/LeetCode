@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aniruddh-joshi/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -340,10 +341,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aniruddh-joshi/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aniruddh-joshi/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Matrix
 |  |
 | ------- |
