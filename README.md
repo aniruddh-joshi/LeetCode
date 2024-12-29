@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/aniruddh-joshi/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/aniruddh-joshi/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/aniruddh-joshi/LeetCode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0088-merge-sorted-array) |
