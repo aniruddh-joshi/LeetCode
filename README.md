@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/aniruddh-joshi/LeetCode/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/aniruddh-joshi/LeetCode/tree/master/0224-basic-calculator) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aniruddh-joshi/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/aniruddh-joshi/LeetCode/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/aniruddh-joshi/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aniruddh-joshi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/aniruddh-joshi/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/aniruddh-joshi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/aniruddh-joshi/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/aniruddh-joshi/LeetCode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/aniruddh-joshi/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aniruddh-joshi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniruddh-joshi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/aniruddh-joshi/LeetCode/tree/master/0224-basic-calculator) |
 ## Trie
 |  |
 | ------- |
