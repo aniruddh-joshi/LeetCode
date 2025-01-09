@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/aniruddh-joshi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/aniruddh-joshi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/aniruddh-joshi/LeetCode/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aniruddh-joshi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1256-rank-transform-of-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/aniruddh-joshi/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/aniruddh-joshi/LeetCode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/aniruddh-joshi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/aniruddh-joshi/LeetCode/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aniruddh-joshi/LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aniruddh-joshi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -393,4 +396,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/aniruddh-joshi/LeetCode/tree/master/0046-permutations) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aniruddh-joshi/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
