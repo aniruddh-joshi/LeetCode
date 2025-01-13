@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniruddh-joshi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/aniruddh-joshi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/aniruddh-joshi/LeetCode/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aniruddh-joshi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/aniruddh-joshi/LeetCode/tree/master/0068-text-justification) |
 | [0097-interleaving-string](https://github.com/aniruddh-joshi/LeetCode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/aniruddh-joshi/LeetCode/tree/master/0224-basic-calculator) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0068-text-justification](https://github.com/aniruddh-joshi/LeetCode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniruddh-joshi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0179-largest-number) |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/aniruddh-joshi/LeetCode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Linked List
@@ -354,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aniruddh-joshi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -411,4 +416,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aniruddh-joshi/LeetCode/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
