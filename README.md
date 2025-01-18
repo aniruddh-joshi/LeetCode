@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/aniruddh-joshi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/aniruddh-joshi/LeetCode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/aniruddh-joshi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aniruddh-joshi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1256-rank-transform-of-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aniruddh-joshi/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/aniruddh-joshi/LeetCode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/aniruddh-joshi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0179-largest-number) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aniruddh-joshi/LeetCode/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/aniruddh-joshi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/aniruddh-joshi/LeetCode/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0263-ugly-number) |
@@ -436,4 +439,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/aniruddh-joshi/LeetCode/tree/master/0130-surrounded-regions) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/aniruddh-joshi/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
