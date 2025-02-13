@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/aniruddh-joshi/LeetCode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/aniruddh-joshi/LeetCode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniruddh-joshi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/aniruddh-joshi/LeetCode/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/aniruddh-joshi/LeetCode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/aniruddh-joshi/LeetCode/tree/master/0221-maximal-square) |
