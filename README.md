@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/aniruddh-joshi/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/aniruddh-joshi/LeetCode/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aniruddh-joshi/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aniruddh-joshi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/aniruddh-joshi/LeetCode/tree/master/0399-evaluate-division) |
 | [0502-ipo](https://github.com/aniruddh-joshi/LeetCode/tree/master/0502-ipo) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aniruddh-joshi/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/aniruddh-joshi/LeetCode/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
