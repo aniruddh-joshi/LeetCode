@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0945-snakes-and-ladders](https://github.com/aniruddh-joshi/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1256-rank-transform-of-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aniruddh-joshi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aniruddh-joshi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniruddh-joshi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aniruddh-joshi/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -337,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aniruddh-joshi/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/aniruddh-joshi/LeetCode/tree/master/0221-maximal-square) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Linked List
 |  |
@@ -513,4 +517,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/aniruddh-joshi/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0210-course-schedule-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
