@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/aniruddh-joshi/LeetCode/tree/master/0399-evaluate-division) |
 | [0502-ipo](https://github.com/aniruddh-joshi/LeetCode/tree/master/0502-ipo) |
 | [0624-maximum-distance-in-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0772-construct-quad-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/aniruddh-joshi/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniruddh-joshi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aniruddh-joshi/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0772-construct-quad-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/aniruddh-joshi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aniruddh-joshi/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0772-construct-quad-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0772-construct-quad-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aniruddh-joshi/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aniruddh-joshi/LeetCode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/aniruddh-joshi/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/aniruddh-joshi/LeetCode/tree/master/0289-game-of-life) |
+| [0772-construct-quad-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/aniruddh-joshi/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Monotonic Stack
 |  |
