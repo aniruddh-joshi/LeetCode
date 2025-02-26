@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/aniruddh-joshi/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/aniruddh-joshi/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/aniruddh-joshi/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/aniruddh-joshi/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/aniruddh-joshi/LeetCode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/aniruddh-joshi/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/aniruddh-joshi/LeetCode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/aniruddh-joshi/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aniruddh-joshi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aniruddh-joshi/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aniruddh-joshi/LeetCode/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aniruddh-joshi/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniruddh-joshi/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/aniruddh-joshi/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/aniruddh-joshi/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/aniruddh-joshi/LeetCode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/aniruddh-joshi/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/aniruddh-joshi/LeetCode/tree/master/0289-game-of-life) |
@@ -491,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0046-permutations](https://github.com/aniruddh-joshi/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/aniruddh-joshi/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/aniruddh-joshi/LeetCode/tree/master/0079-word-search) |
 ## Doubly-Linked List
 |  |
 | ------- |
