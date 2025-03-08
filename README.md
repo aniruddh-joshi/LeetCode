@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/aniruddh-joshi/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/aniruddh-joshi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1894-merge-strings-alternately](https://github.com/aniruddh-joshi/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
+| [1894-merge-strings-alternately](https://github.com/aniruddh-joshi/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aniruddh-joshi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
