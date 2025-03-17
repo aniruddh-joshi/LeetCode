@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/aniruddh-joshi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/aniruddh-joshi/LeetCode/tree/master/0399-evaluate-division) |
 | [0502-ipo](https://github.com/aniruddh-joshi/LeetCode/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/aniruddh-joshi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0772-construct-quad-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/aniruddh-joshi/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/aniruddh-joshi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/aniruddh-joshi/LeetCode/tree/master/0179-largest-number) |
 | [0502-ipo](https://github.com/aniruddh-joshi/LeetCode/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/aniruddh-joshi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Recursion
