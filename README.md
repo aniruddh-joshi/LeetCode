@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniruddh-joshi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddh-joshi/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/aniruddh-joshi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/aniruddh-joshi/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/aniruddh-joshi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/aniruddh-joshi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0772-construct-quad-tree](https://github.com/aniruddh-joshi/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/aniruddh-joshi/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0948-sort-an-array) |
