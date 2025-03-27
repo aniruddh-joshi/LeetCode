@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddh-joshi/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/aniruddh-joshi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/aniruddh-joshi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aniruddh-joshi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0945-snakes-and-ladders](https://github.com/aniruddh-joshi/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/aniruddh-joshi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aniruddh-joshi/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -276,11 +278,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/aniruddh-joshi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aniruddh-joshi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aniruddh-joshi/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/aniruddh-joshi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
