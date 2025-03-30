@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/aniruddh-joshi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/aniruddh-joshi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aniruddh-joshi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
 | ------- |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/aniruddh-joshi/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aniruddh-joshi/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aniruddh-joshi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aniruddh-joshi/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/aniruddh-joshi/LeetCode/tree/master/0221-maximal-square) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
 ## Linked List
 |  |
