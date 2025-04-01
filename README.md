@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/aniruddh-joshi/LeetCode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aniruddh-joshi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/aniruddh-joshi/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/aniruddh-joshi/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/aniruddh-joshi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/aniruddh-joshi/LeetCode/tree/master/0443-string-compression) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/aniruddh-joshi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aniruddh-joshi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddh-joshi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/aniruddh-joshi/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aniruddh-joshi/LeetCode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/aniruddh-joshi/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aniruddh-joshi/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/aniruddh-joshi/LeetCode/tree/master/0221-maximal-square) |
+| [0392-is-subsequence](https://github.com/aniruddh-joshi/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aniruddh-joshi/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
