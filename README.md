@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aniruddh-joshi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aniruddh-joshi/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aniruddh-joshi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/aniruddh-joshi/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## String
 |  |
 | ------- |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/aniruddh-joshi/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aniruddh-joshi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aniruddh-joshi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/aniruddh-joshi/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/aniruddh-joshi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aniruddh-joshi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aniruddh-joshi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/aniruddh-joshi/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/aniruddh-joshi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/aniruddh-joshi/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/aniruddh-joshi/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Recursion
 |  |
 | ------- |
