@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1146-greatest-common-divisor-of-strings](https://github.com/aniruddh-joshi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aniruddh-joshi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/aniruddh-joshi/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aniruddh-joshi/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0954-maximum-sum-circular-subarray](https://github.com/aniruddh-joshi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aniruddh-joshi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1659-get-the-maximum-score](https://github.com/aniruddh-joshi/LeetCode/tree/master/1659-get-the-maximum-score) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aniruddh-joshi/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0342-power-of-four](https://github.com/aniruddh-joshi/LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/aniruddh-joshi/LeetCode/tree/master/0476-number-complement) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aniruddh-joshi/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Tree
 |  |
 | ------- |
@@ -602,4 +605,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aniruddh-joshi/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aniruddh-joshi/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
